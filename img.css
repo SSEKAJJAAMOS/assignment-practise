@@ -1,0 +1,15 @@
+
+.bg-image {
+    
+    background-size: 1000px;
+    padding: 20em;
+    background-image: url("atechy.jpg.png");
+    background-repeat:no-repeat;
+    background-position: center;
+}
+
+.text{
+    position: relative;
+    text-align: center;
+    color:chartreuse;
+}
